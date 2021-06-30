@@ -1,0 +1,18 @@
+---
+toc: true
+layout: post
+description: Dynamic neural networks in semantic segmentation
+categories: [dynamic][segementation]
+title: An Example Markdown Post
+---
+
+第二阶段第一次会议
+
+## 视频
+视频下载链接：https://pan.baidu.com/s/1z_yzlx5T16nIHdEyNRIKKA 
+提取码：d7a7 
+
+## ppt
+PPT下载链接：https://pan.baidu.com/s/1QCMocY563lpyer7UM398WA 
+提取码：n0rf 
+
