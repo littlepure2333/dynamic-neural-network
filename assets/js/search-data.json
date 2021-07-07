@@ -3,9 +3,9 @@
     
         "post0": {
             "title": "Dynamic neural networks in semantic segmentation",
-            "content": "第二阶段第一次会议 . 视频 . 视频下载链接：https://pan.baidu.com/s/1z_yzlx5T16nIHdEyNRIKKA 提取码：d7a7 . ppt . PPT下载链接：https://pan.baidu.com/s/1QCMocY563lpyer7UM398WA 提取码：n0rf .",
-            "url": "https://littlepure2333.github.io/dynamic-neural-network/dynamic/segementation/2021/06/30/DNNiSS.html",
-            "relUrl": "/dynamic/segementation/2021/06/30/DNNiSS.html",
+            "content": "第二阶段第一次会议 . 1. Category . 1.1 Pixel level . 1) Dynamic convolution [1] . 2) Early Exiting [2] . 3) PointRend [3] . 1.2 Sample level . 1) Dynamic routing [4] . 2) Early Exiting [5] . 2. Multi-Exit Semantic Segmentation Networks . 1) Arch design . 2) Training strategies . 3) Routing policies . 3. A naive idea . segmenter + dynamic? . References . [1] Spatially Adaptive Inference with Stochastic Feature Sampling and Interpolation . [2] Not All Pixels Are Equal: Difﬁculty-Aware Semantic Segmentation via Deep Layer Cascade . [3] PointRend: Image Segmentation as Rendering . [4] Learning Dynamic Routing for Semantic Segmentation . [5] Multi-Exit Semantic Segmentation Networks . 视频 . 视频下载链接：https://pan.baidu.com/s/1z_yzlx5T16nIHdEyNRIKKA 提取码：d7a7 . ppt . PPT下载链接：https://pan.baidu.com/s/1QCMocY563lpyer7UM398WA 提取码：n0rf .",
+            "url": "https://littlepure2333.github.io/dynamic-neural-network/dynamic/segmentation/2021/06/30/DNNiSS.html",
+            "relUrl": "/dynamic/segmentation/2021/06/30/DNNiSS.html",
             "date": " • Jun 30, 2021"
         }
         
