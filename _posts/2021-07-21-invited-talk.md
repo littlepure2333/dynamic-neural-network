@@ -1,4 +1,12 @@
-### 外部邀请讲座
+---
+toc: false
+layout: post
+description: 外部邀请讲座
+categories: [invited-talk]
+title: 高效视频内容识别
+---
+
+### 邀请讲座
 主题：高效视频内容识别   
 主讲人：吴祖煊（复旦大学副研究员）
 
