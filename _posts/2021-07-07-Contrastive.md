@@ -1,7 +1,7 @@
 ---
 toc: false
 layout: post
-description: 第二阶段第二次会议
+description: 第二阶段第二次会议 主讲人：傅智毅
 categories: [self_supervised_learning]
 title: Introduction to Contrastive Learning
 ---
