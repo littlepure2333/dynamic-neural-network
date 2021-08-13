@@ -1,7 +1,7 @@
 ---
 toc: false
 layout: post
-description: 外部邀请讲座
+description: 外部邀请讲座 主讲人：吴祖煊
 categories: [invited-talk]
 title: 高效视频内容识别
 ---
