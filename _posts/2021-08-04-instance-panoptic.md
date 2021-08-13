@@ -1,7 +1,7 @@
 ---
 toc: false
 layout: post
-description: 
+description: 第二阶段第三次会议 主讲人：唐楚峰
 categories: [Dynamic Kernel]
 title: Dynamic Kernel for Instance and Panoptic Segmentation
 ---
