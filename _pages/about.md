@@ -7,7 +7,7 @@ permalink: /about/
 
 一群研究动态神经网络的小伙伴们：
 
-黄高老师，贾伟老师，马宁宁，唐楚峰，宋林，韩益增，傅智毅，王语霖，杨乐，袁之航，张津铭，李祥泰，王诗尊，陈锰钊，马文轩，姚满，戴彬，刘佳斌
+[黄高老师](http://www.gaohuang.net/)，贾伟老师，[马宁宁](https://www.cse.ust.hk/~nmaac/)，[唐楚峰](https://chufengt.github.io/)，宋林，[韩益增](https://yizenghan.top/)，傅智毅，[王语霖](https://www.rainforest-wang.cool/)，[杨乐](https://www.yangle.cc/)，[袁之航](http://www.hahnyuan.com/)，张津铭，[李祥泰](https://lxtgh.github.io/)，王诗尊，陈锰钊，马文轩，姚满，戴彬，刘佳斌
 
 
 
@@ -127,6 +127,6 @@ permalink: /about/
 
 **3.指导老师简介**
 
-![photo](/_pages/photo.jpg)
+![photo]({{site.baseurl}}/_pages/photo.jpg)
 
 黄高是清华大学自动化系助理教授，博士生导师。2015年获清华大学博士学位，2015年至2018年在美国康奈尔大学计算机系从事博士后科研工作。主要研究领域为深度学习和计算机视觉，提出了主流卷积网络模型DenseNet。目前在NeurIPS，ICML，CVPR等国际顶级会议及IEEE多个汇刊共计发表学术论文50余篇，被引用21337余次。获CVPR最佳论文奖、达摩院青橙奖、世界人工智能大会SAIL先锋奖、中国自动化学会优秀博士学位论文、全国百篇最具影响国际学术论文、中国人工智能学会自然科学一等奖和吴文俊优秀青年奖等荣誉，入选智源青年学者计划。
