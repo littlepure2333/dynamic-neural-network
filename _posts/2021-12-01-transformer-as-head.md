@@ -3,7 +3,7 @@ toc: false
 layout: post
 description: 第三阶段第四次会议 主讲人：唐楚峰
 categories: [Transformer]
-title: Beyond Visual Backbone: Transformer as Head
+title: Beyond Visual Backbone, Transformer as Head
 ---
 
 ## 视频  
