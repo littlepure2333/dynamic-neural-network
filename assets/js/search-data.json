@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "Dynamic Token In Vit",
-            "content": "| | — | | —- | ———————————————- | | | toc: false | | | layout: post | | | description: 第三阶段第九次会议 主讲人：陈锰钊 | | | categories: [dynamic transformer] | | | title: “dynamic token inj ViT” | | | — | . . toc: false layout: post description: 第三阶段第九次会议 主讲人：陈锰钊 categories: [dynamic transformer] title: “dynamic token in ViT” — . 大纲 . Pruning-based DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsificatio | IA-RED$^2$ : Interpretability-Aware Redundancy Reduction for Vision Transformers | EVIT: EXPEDITING VISION TRANSFORMERS VIA TOKEN REORGANIZATIONS | ATS: Adaptive Token Sampling For Efficient Vision Transformers | . | Different computational cost Dynamic Grained Encoder for Vision Transformers | Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer | . | Early exitting Not All Images are Worth 16x16 Words: Dynamic Transformers for Efficient Image Recognition | Coarse-to-Fine Vision Transformer | . | 视频链接 . [腾讯会议]{https://meeting.tencent.com/v2/cloud-record/share?id=bb899281-27d6-45f1-8eb7-57cd1c9068c8&amp;from=3&amp;is-single=true} . PPT链接 . 百度网盘 提取码:dhbo .",
-            "url": "https://littlepure2333.github.io/dynamic-neural-network/2022/03/09/Dynamic-token-in-ViT.html",
-            "relUrl": "/2022/03/09/Dynamic-token-in-ViT.html",
+            "title": "dynamic token in ViT",
+            "content": "大纲 . Pruning-based DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsificatio | IA-RED$^2$ : Interpretability-Aware Redundancy Reduction for Vision Transformers | EVIT: EXPEDITING VISION TRANSFORMERS VIA TOKEN REORGANIZATIONS | ATS: Adaptive Token Sampling For Efficient Vision Transformers | . | Different computational cost Dynamic Grained Encoder for Vision Transformers | Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer | . | Early exitting Not All Images are Worth 16x16 Words: Dynamic Transformers for Efficient Image Recognition | Coarse-to-Fine Vision Transformer | . | 视频链接 . 腾讯会议 . PPT链接 . 百度网盘 提取码:dhbo .",
+            "url": "https://littlepure2333.github.io/dynamic-neural-network/dynamic%20transformer/2022/03/09/Dynamic-token-in-ViT.html",
+            "relUrl": "/dynamic%20transformer/2022/03/09/Dynamic-token-in-ViT.html",
             "date": " • Mar 9, 2022"
         }
         
