@@ -1,12 +1,3 @@
-|      | ---                                            |
-| ---- | ---------------------------------------------- |
-|      | toc: false                                     |
-|      | layout: post                                   |
-|      | description: 第三阶段第九次会议 主讲人：陈锰钊 |
-|      | categories: [dynamic transformer]              |
-|      | title: "dynamic token inj ViT"                 |
-|      | ---                                            |
-
 ---
 toc: false
 layout: post
@@ -35,7 +26,7 @@ title: "dynamic token in ViT"
 
 ## 视频链接
 
-[腾讯会议]{https://meeting.tencent.com/v2/cloud-record/share?id=bb899281-27d6-45f1-8eb7-57cd1c9068c8&from=3&is-single=true}
+[腾讯会议](https://meeting.tencent.com/v2/cloud-record/share?id=bb899281-27d6-45f1-8eb7-57cd1c9068c8&from=3&is-single=true)
 
 ## PPT链接
 
