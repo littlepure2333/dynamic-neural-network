@@ -7,7 +7,13 @@
 |      | title: "dynamic token inj ViT"                 |
 |      | ---                                            |
 
-
+---
+toc: false
+layout: post
+description: 第三阶段第九次会议 主讲人：陈锰钊 
+categories:  [dynamic transformer] 
+title: "dynamic token in ViT"
+---
 
 ## 大纲
 
