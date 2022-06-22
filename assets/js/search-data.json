@@ -15,8 +15,8 @@
         ,"post1": {
             "title": "Masked Image Modeling for Self-supervised Learning",
             "content": "Masked Image Modeling (MIM) . 大纲 . Preliminaries . Pre-training + Fine-tuning in NLP | BEiT | MAE | SimMIM | Efficient MIM . Local MAE | HiViT | MixMIM | GreenMIM | Uniform Masking | MIM + previous SSL . Siamese Image Modeling | Talk 视频回放 . https://meeting.tencent.com/v2/cloud-record/share?id=ffe9ebbd-e533-4e73-809c-b917e6ebc913&amp;from=3 . Slide . 链接: https://pan.baidu.com/s/1B_ZitN_eNqlXJTw2ko6hVg 提取码: u97v .",
-            "url": "https://littlepure2333.github.io/dynamic-neural-network/moe/2022/06/15/MIM.html",
-            "relUrl": "/moe/2022/06/15/MIM.html",
+            "url": "https://littlepure2333.github.io/dynamic-neural-network/mim/2022/06/15/MIM.html",
+            "relUrl": "/mim/2022/06/15/MIM.html",
             "date": " • Jun 15, 2022"
         }
         
