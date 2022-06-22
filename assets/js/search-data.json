@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "Moe",
-            "content": "Mixture of Experts (MoE) . Talk 视频回放 . https://meeting.tencent.com/v2/cloud-record/share?id=36844c5c-30f5-474a-a62c-fa6f817e9a55&amp;from=3 . Slide . 链接: https://pan.baidu.com/s/1u9gX_sUL_xV2aIq9KCkCTA?pwd=ml0h 提取码: ml0h .",
+            "content": "Mixture of Experts (MoE) . 大纲 . Concepts and early works . HydraNet Multi-gate Mixture-of-Experts Sparsely gated MoE layer . Classic Transformer-based methods . Switch Transformer GShard Vision MoE . Recent works . LI-MoE DSelect-k BASE Hash Layers Sparse MLP Swin-MoE Uni-Perceiver-MoE . Talk 视频回放 . https://meeting.tencent.com/v2/cloud-record/share?id=36844c5c-30f5-474a-a62c-fa6f817e9a55&amp;from=3 . Slide . 链接: https://pan.baidu.com/s/1WzvNxFre7mjpd0d1NhiThg?pwd=c9kh 提取码: c9kh .",
             "url": "https://littlepure2333.github.io/dynamic-neural-network/2022/06/22/MoE.html",
             "relUrl": "/2022/06/22/MoE.html",
             "date": " • Jun 22, 2022"
