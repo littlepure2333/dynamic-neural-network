@@ -2,7 +2,7 @@
 toc: false
 layout: post
 description: 第四阶段第五次会议 主讲人：张津铭
-categories: [Active Learning]
+categories: [Continual Learning]
 title: Continual dynamic networks
 ---
 
