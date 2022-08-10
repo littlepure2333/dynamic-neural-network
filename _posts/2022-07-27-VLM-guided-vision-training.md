@@ -3,9 +3,8 @@ toc: false
 layout: post
 description: 第四阶段第六次会议 主讲人：马文轩
 categories: [Vision-Language]
-title: "VLM-guided vision training"
+title: Vision-Language Model Guided Training 
 ---
-
 
 # VLM guided training 
 
